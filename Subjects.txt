@@ -1,0 +1,12 @@
+I. CN
+   1. OSI
+   2. TCP/IP
+   3. IP addr (IP4,IP6)
+   4. HTTP(S),UDP,TCP,SSL,
+   5. Socket, Cookie
+   6. GET, POST.....
+II. OS
+    1. Tasking vs Threading
+    2. User & kernel components
+    3. 
+III. SE
